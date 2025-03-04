@@ -52,7 +52,7 @@ PyQuantStack 是一个基于 Python 的全栈量化金融平台，集成了数�
 
 克隆项目
 
-git clone https://github.com/yourusername/PyQuantStack.git
+https://github.com/karlzz-bit/PyQuantStack/tree/master
 cd PyQuantStack
 
 安装依赖
